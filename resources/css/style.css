@@ -5,23 +5,29 @@ body {
     color: white;
 }
 
+/*HEADINGS*/
+
 #header--main {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
-.app--links {
-    color: aquamarine;
-    font-size: 16px;
-}
-
-h2 {
+.header--secondary {
     font-weight: 300;
     font-size: 42px;
 }
 
+/*PARAGRAPHS*/
+
 p {
     font-size: 21px;
     color: gray;
+}
+
+/*LINKS*/
+
+.app--links {
+    color: aquamarine;
+    font-size: 16px;
 }
