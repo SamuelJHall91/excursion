@@ -1,6 +1,7 @@
 body {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 header h1 {
@@ -10,8 +11,7 @@ header h1 {
     color: white;
     text-align: center;
 }
-
-header p {
+header p  {
     color: aquamarine;
     text-align: center;
 }
