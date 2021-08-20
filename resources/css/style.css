@@ -2,6 +2,7 @@ body {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    color: white;
 }
 
 #header--main {
@@ -13,4 +14,14 @@ body {
 .app--links {
     color: aquamarine;
     font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
 }
